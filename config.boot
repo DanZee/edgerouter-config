@@ -216,7 +216,7 @@ interfaces {
         }
     }
     ethernet eth2 {
-        description "Niet gebruikt
+        description "Niet gebruikt"
         disable
     }
     ethernet eth3 {
